@@ -1,0 +1,9 @@
+streamlit
+pandas
+gtts
+python-dotenv
+huggingface_hub
+sacremoses
+transformers 
+sentencepiece
+torch

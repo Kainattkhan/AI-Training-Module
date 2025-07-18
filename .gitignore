@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE configs (optional)
+.vscode/
+.idea/
+
+# Results or local output
+results.csv
